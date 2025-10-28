@@ -10,7 +10,7 @@ Fichiers :
 
 
 
-Auteurs : hg, [Cryptanalyse](https://twitter.com/Cryptanalyse) et jrr
+Auteurs : hg, [Cryptanalyse](https://x.com/Cryptanalyse) et jrr
 
 Origine : [IZNOGOOD](https://hackropole.fr/fr/challenges/crypto/fcsc2022-crypto-iznogood/)
 
